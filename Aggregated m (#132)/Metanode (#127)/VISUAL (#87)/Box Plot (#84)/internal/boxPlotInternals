@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="boxPlotInternals">
+<entry key="numberOf" type="xint" value="2"/>
+<config key="colSpec0">
+<entry key="column_name" type="xstring" value="Random Forest"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.7180496704530851"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.8049454054900873"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="colSpec1">
+<entry key="column_name" type="xstring" value="SMO-Puk"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.6982892429342888"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.7813545363287133"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="statsRandom Forest">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="0.7779596023103251"/>
+<entry key="1" type="xdouble" value="0.7779596023103251"/>
+<entry key="2" type="xdouble" value="0.7779596023103251"/>
+<entry key="3" type="xdouble" value="0.7917745182628703"/>
+<entry key="4" type="xdouble" value="0.8049454054900873"/>
+<entry key="5" type="xdouble" value="0.8049454054900873"/>
+<entry key="6" type="xdouble" value="0.8049454054900873"/>
+</config>
+<config key="mildrowRandom Forest"/>
+<config key="mildRandom Forest">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="extremerowRandom Forest"/>
+<config key="extremeRandom Forest">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="statsSMO-Puk">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="0.7532862815700385"/>
+<entry key="1" type="xdouble" value="0.7532862815700385"/>
+<entry key="2" type="xdouble" value="0.7532862815700385"/>
+<entry key="3" type="xdouble" value="0.7676157607132585"/>
+<entry key="4" type="xdouble" value="0.7813545363287133"/>
+<entry key="5" type="xdouble" value="0.7813545363287133"/>
+<entry key="6" type="xdouble" value="0.7813545363287133"/>
+</config>
+<config key="mildrowSMO-Puk"/>
+<config key="mildSMO-Puk">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="extremerowSMO-Puk"/>
+<config key="extremeSMO-Puk">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+</config>
